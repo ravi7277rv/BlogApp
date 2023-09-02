@@ -1,0 +1,55 @@
+.header {
+    background-color: rgb(42, 202, 205);
+    text-align: center;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+
+.nav {
+    background-color: rgb(79, 79, 79);
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchForm {
+    color: white;
+}
+
+.searchForm label {
+    margin-right: 20px;
+}
+
+.searchForm input {
+    padding: 5px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.nav ul li {
+    list-style-type: none;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 18px;
+    color: White;
+}
+
+.footer {
+    text-align: center;
+    position: sticky;
+    top: 100%;
+    background-color: rgb(65, 2, 2);
+    color:white;
+    min-height: 40px;
+    line-height: 40px;
+}
+
+

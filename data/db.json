@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "12 July, 2023 11:17:36 PM",
+      "body": "This is the first post of this blog app"
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "datetime": "12 July, 2023 11:17:36 PM",
+      "body": "This is the first post of this blog app"
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "datetime": "12 July, 2023 11:17:36 PM",
+      "body": "This is the first post of this blog app"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 05, 2023 10:23:51 AM",
+      "body": "This is the fourth Edited Posts by Ravi"
+    },
+    {
+      "id": 5,
+      "title": "My Fifth Posts",
+      "datetime": "July 10, 2023 10:18:51 AM",
+      "body": "This is the fifteh posts"
+    },
+    {
+      "id": 6,
+      "title": "Hello Moto",
+      "datetime": "July 11, 2023 11:25:20 AM",
+      "body": "This is the sound of Moto G\n"
+    },
+    {
+      "id": 7,
+      "title": "Ravi",
+      "datetime": "July 11, 2023 12:14:26 PM",
+      "body": "Ravi kumar joined the flynaut\n"
+    },
+    {
+      "id": 8,
+      "title": "Kunal Singh",
+      "datetime": "July 11, 2023 12:58:11 PM",
+      "body": "Hello Every one I am kunal"
+    },
+    {
+      "id": 9,
+      "title": "Flynaut Internship",
+      "datetime": "August 04, 2023 7:56:14 PM",
+      "body": "I have joined the flynaut as fullstack intern"
+    }
+  ]
+}
